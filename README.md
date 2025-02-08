@@ -15,7 +15,7 @@ This project is a **fully structured MySQL database** designed for a veterinary 
 ✔️ **Efficient Database Design** - Uses normalization principles  
 ✔️ **ER Diagram** - Clear structure of relationships  
 ✔️ **Sample Queries** - Pre-written SQL queries for testing  
-✔️ **Easy Installation** - Just run the last provided SQL scripts in section 4
+✔️ **Easy Installation** - Just run the SQL script provided in Section 4
 ✔️ **Well-Documented** - Includes explanations for all tables  
 
 ---
