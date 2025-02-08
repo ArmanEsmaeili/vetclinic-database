@@ -1,6 +1,6 @@
 # 🏥 Vet Clinic Database 📊  
 
-![ER Diagram](images/er-diagram.png)  
+![ER Diagram](1-VetClinic-ER-Diagram/VetClinic-ER-Diagram.png)  
 
 ## 📌 **About This Project**  
 This project is a **fully structured MySQL database** designed for a veterinary clinic. It **stores and manages pet information, owners, visits, and treatments** efficiently. The database schema follows **best normalization practices** to ensure data integrity.  
