@@ -27,4 +27,3 @@ To use this database on your system, follow these steps:
 ```sh
 git clone https://github.com/ArmanEsmaeili/vetclinic-database.git
 cd vetclinic-database
-
